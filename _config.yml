@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 
 title: Titolo sito
-description: [Descrizione del sito]
+description: [Electronic Engineer]
+
+logo: Img/logo.png
+show_downloads: false
+google_analytics: none
