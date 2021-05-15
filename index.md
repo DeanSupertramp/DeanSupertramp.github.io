@@ -1,3 +1,5 @@
+# Portfolio
+
 ## Professional experience
 - **Electronic Engineer** at [Biotecnomed S.c.a.r.l.](https://www.biotecnomed.it/)
 
@@ -13,26 +15,26 @@
 - **[Antima.it](https://antima.it/)**:
     - a scientific/technological publications website that I co-found, i manage and publish articles about electronic stuff, diy, 3d printing, Arduino etc...
 
-- **Dispositivo per il monitoraggio indoor della qualità ambientale**:
-    - Il progetto prevede l’ideazione e realizzazione di un dispositivo smart adatto per contesti abitativi, uffici, ospedali, palestre, trasporti, scuole, per monitorare la qualità dell’aria interna e in generale dei parametri ambientali ad esso associata.
+- **Device for indoor monitoring of environmental quality**:
+    - Conception, design and construction of a smart device suitable for residential contexts, offices, hospitals, gyms, transport, schools, to monitor indoor air quality and in general the environmental parameters associated with it.
 
-- **[Progetto e simulazione di un Differential Pair with Active Load](https://github.com/DeanSupertramp/Progettazione_di_Circuiti_Integrati_Analogici)**:
-    - Studio, progettazione e simulazione Spice di un Differential Pair with Active Load.
+- **[Design and simulation of a Differential Pair with Active Load](https://github.com/DeanSupertramp/Progettazione_di_Circuiti_Integrati_Analogici)**:
+    - Study, design and simulation in LTSpice of a Differential Pair with Active Load.
 
-- **Datalogger di eventi audio in LabView**:
-    - Progettazione e sviluppo di un programma realizzato in LabView capace di identificare un evento audio o meno, analizzandone caratteristiche quali spettro in frequenza, durata, salvando i dati in un file di log.
+- **Audio event datalogger in LabView**:
+    - Design and development of a program created in LabView capable of identifying an audio event or not, analyzing its characteristics such as frequency spectrum, duration, saving the data in a log file.
 
 - **Self-trainer**:
-    - Sistema di monitoraggio e controllo autonomo dell’attività motoria: Dispositivo capace di individuare il movimento di un determinato esercizio, attraverso l’utilizzo di sensori quali accelerometro e magnetometro, garantendone la correttezza. Per mezzo della relativa app, è possibile ottenere un riscontro immediato dell’esercizio, oltre che tracciare, scaricare e monitorare i dati del proprio allenamento attraverso un’interfaccia colorata, dinamica e semplice da usare.
+    - Autonomous monitoring and control system of motor activity: device capable of identifying the movement of a given exercise, through the use of sensors such as accelerometer and magnetometer, ensuring its correctness. Using the relevant app, you can get immediate feedback on the exercise, as well as track, download and monitor your training data through a colorful, dynamic and easy-to-use interface.
 
-- **Progetto definitivo di un impianto elettrico e illuminotecnico per ufficio di vigilanza**:
-    - Stesura di un progetto definitivo di un impianto elettrico e illuminotecnico per ufficio di vigilanza con relativo rifasamento, impianto fotovoltaico e impianto di terra.
+- **Final design of an electrical and lighting system for a security office**:
+    - Final design of an electrical and lighting system for a supervisory office with relative power factor correction, photovoltaic system and earth system.
 
 - **Py-nesthesia**:
-    - Si tratta di un interprete che simula il fenomeno della sinestesia. Scritto in Python, questo software è in grado di analizzare un flusso audio, al fine di percepire la sequenza di note suonate associandole una sequenza di colori che saranno poi riprodotti da una matrice RGB.
+    - An interpreter that simulates the phenomenon of synaesthesia. Written in Python, this software is able to analyze an audio stream, in order to perceive the sequence of notes played by associating them with a sequence of colors which will then be reproduced by an RGB matrix.
 
 - **Theremin**:
-    - Realizzazione di uno strumento musicale basato su un sensore a ultrasuoni e Arduino.
+    - Realization of a musical instrument based on an ultrasonic sensor and Arduino.
 
 
 ## Interesting links
