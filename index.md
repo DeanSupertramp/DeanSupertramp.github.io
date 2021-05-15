@@ -34,15 +34,15 @@
     - Realizzazione di uno strumento musicale basato su un sensore a ultrasuoni e Arduino.
 
 ## Interesting links
-- **[IG]**(https://www.instagram.com/dean_supertramp/)
-- [Lomography](https://www.lomography.com/homes/deansupertramp)
-- [Flickr](https://www.flickr.com/photos/deansupertramp/)
-- [Anobii](http://www.anobii.com/deandondan/profile)
-- [LoremIpsumBlog](https://theloremipsumblog.wordpress.com/)
+- **[IG](https://www.instagram.com/dean_supertramp/)**
+- **[Lomography](https://www.lomography.com/homes/deansupertramp)**
+- **[Flickr](https://www.flickr.com/photos/deansupertramp/)**
+- **[Anobii](http://www.anobii.com/deandondan/profile)**
+- **[LoremIpsumBlog](https://theloremipsumblog.wordpress.com/)**
 
 
 
 ## Contacts
-- [LinkTree](https://linktr.ee/dean_supertramp)
-- [Linkedin](https://www.linkedin.com/in/andrea-alecce/)
-- [FB](https://www.facebook.com/andrea.d.alecce)
+- **[LinkTree](https://linktr.ee/dean_supertramp)
+- **[Linkedin](https://www.linkedin.com/in/andrea-alecce/)
+- **[FB](https://www.facebook.com/andrea.d.alecce)
