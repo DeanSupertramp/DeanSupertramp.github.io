@@ -4,7 +4,7 @@
 
 ## Education
 - Bachelor's Degree in Electronics Engineering 
-- - Thesis: IoT Technologies and Cognitive Networks supporting a smart ecosystem capable of determining human activity for improving the quality of life.
+    Thesis: IoT Technologies and Cognitive Networks supporting a smart ecosystem capable of determining human activity for improving the quality of life.
 
 ## Projects
 - [Antima.it](https://antima.it/)
