@@ -16,7 +16,7 @@
 - **Dispositivo per il monitoraggio indoor della qualità ambientale**:
     - Il progetto prevede l’ideazione e realizzazione di un dispositivo smart adatto per contesti abitativi, uffici, ospedali, palestre, trasporti, scuole, per monitorare la qualità dell’aria interna e in generale dei parametri ambientali ad esso associata.
 
-- **Progetto e simulazione di un Differential Pair with Active Load**:
+- **[Progetto e simulazione di un Differential Pair with Active Load](https://github.com/DeanSupertramp/Progettazione_di_Circuiti_Integrati_Analogici)**:
     - Studio, progettazione e simulazione Spice di un Differential Pair with Active Load.
 
 - **Datalogger di eventi audio in LabView**:
