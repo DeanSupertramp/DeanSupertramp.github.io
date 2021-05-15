@@ -1,12 +1,13 @@
 ## Professional experience
-
 - **Electronic Engineer** at [Biotecnomed S.c.a.r.l.](https://www.biotecnomed.it/)
 
-## Education
-- Second year student of the **Master's Degree** in __Electronics Engineering at Università della Calabria (UNICAL)__
 
-- **Bachelor's Degree** in __Electronics Engineering at Università della Calabria (UNICAL)__
+## Education
+- Second year student of the **Master's Degree** in Electronics Engineering at Università della Calabria (UNICAL)
+
+- **Bachelor's Degree** in Electronics Engineering at Università della Calabria (UNICAL)
     - Thesis: __IoT Technologies and Cognitive Networks supporting a smart ecosystem capable of determining human activity for improving the quality of life.__
+
 
 ## Projects
 - **[Antima.it](https://antima.it/)**:
@@ -33,13 +34,13 @@
 - **Theremin**:
     - Realizzazione di uno strumento musicale basato su un sensore a ultrasuoni e Arduino.
 
+
 ## Interesting links
 - **[IG](https://www.instagram.com/dean_supertramp/)**
 - **[Lomography](https://www.lomography.com/homes/deansupertramp)**
 - **[Flickr](https://www.flickr.com/photos/deansupertramp/)**
 - **[Anobii](http://www.anobii.com/deandondan/profile)**
 - **[LoremIpsumBlog](https://theloremipsumblog.wordpress.com/)**
-
 
 
 ## Contacts
