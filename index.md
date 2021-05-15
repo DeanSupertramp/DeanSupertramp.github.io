@@ -44,6 +44,6 @@
 
 
 ## Contacts
-- **[LinkTree](https://linktr.ee/dean_supertramp)
-- **[Linkedin](https://www.linkedin.com/in/andrea-alecce/)
-- **[FB](https://www.facebook.com/andrea.d.alecce)
+- **[LinkTree](https://linktr.ee/dean_supertramp)**
+- **[Linkedin](https://www.linkedin.com/in/andrea-alecce/)**
+- **[FB](https://www.facebook.com/andrea.d.alecce)**
