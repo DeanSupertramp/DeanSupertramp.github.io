@@ -3,8 +3,8 @@
 - Electronic Engineer
 
 ## Education
-- Bachelor's Degree in Electronics Engineering 
-    Thesis: IoT Technologies and Cognitive Networks supporting a smart ecosystem capable of determining human activity for improving the quality of life.
+- Bachelor's Degree in Electronics Engineering
+    - Thesis: IoT Technologies and Cognitive Networks supporting a smart ecosystem capable of determining human activity for improving the quality of life.
 
 ## Projects
 - [Antima.it](https://antima.it/)
@@ -12,9 +12,11 @@
 
 
 ## Interesting links
- - [Lomography](https://www.lomography.com/homes/deansupertramp)
- - [Anobii](http://www.anobii.com/deandondan/profile)
  - [IG](https://www.instagram.com/dean_supertramp/)
+ - [Lomography](https://www.lomography.com/homes/deansupertramp)
+ - [Flickr](https://www.flickr.com/photos/deansupertramp/)
+ - [Anobii](http://www.anobii.com/deandondan/profile)
+
 
 ## Contacts
  - [LinkTree](https://linktr.ee/dean_supertramp)
