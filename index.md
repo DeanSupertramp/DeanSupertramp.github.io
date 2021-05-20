@@ -27,8 +27,8 @@
 - **Self-trainer**:
     - Autonomous monitoring and control system of motor activity: device capable of identifying the movement of a given exercise, through the use of sensors such as accelerometer and magnetometer, ensuring its correctness. Using the relevant app, you can get immediate feedback on the exercise, as well as track, download and monitor your training data through a colorful, dynamic and easy-to-use interface.
 
-- **Final design of an electrical and lighting system for a security office**:
-    - Final design of an electrical and lighting system for a supervisory office with relative power factor correction, photovoltaic system and earth system.
+- **Final design of an electrical and lighting system for a surveillance office**:
+    - Final design of an electrical and lighting system for a surveillance office with relative power factor correction, photovoltaic system and earth system.
 
 - **Py-nesthesia**:
     - An interpreter that simulates the phenomenon of synaesthesia. Written in Python, this software is able to analyze an audio stream, in order to perceive the sequence of notes played by associating them with a sequence of colors which will then be reproduced by an RGB matrix.
