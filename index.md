@@ -21,7 +21,7 @@
 - **[Design and simulation of a Differential Pair with Active Load](https://github.com/DeanSupertramp/Progettazione_di_Circuiti_Integrati_Analogici)**:
     - Study, design and simulation in LTSpice of a Differential Pair with Active Load.
 
-- **Audio event datalogger in LabView**:
+- **[Audio event datalogger in LabView](https://github.com/DeanSupertramp/SAM)**:
     - Design and development of a program created in LabView capable of identifying an audio event or not, analyzing its characteristics such as frequency spectrum, duration, saving the data in a log file.
 
 - **Self-trainer**:
