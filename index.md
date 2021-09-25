@@ -15,6 +15,9 @@
 - **[Antima.it](https://antima.it/)**:
     - a scientific/technological publications website that I co-found, i manage and publish articles about electronic stuff, diy, 3d printing, Arduino etc...
 
+- **[Self Balancing Robot](https://github.com/DeanSupertramp/FPSE)**:
+    - design and construction of a self-balancing robot.
+
 - **Device for indoor monitoring of environmental quality**:
     - Conception, design and construction of a smart device suitable for residential contexts, offices, hospitals, gyms, transport, schools, to monitor indoor air quality and in general the environmental parameters associated with it.
 
