@@ -21,7 +21,7 @@
 - **[Self Balancing Robot](https://github.com/DeanSupertramp/FPSE)**:
     - design and construction of a self-balancing robot.
 
-- **Device for indoor monitoring of environmental quality**:
+- **[Device for indoor monitoring of environmental quality](https://github.com/DeanSupertramp/Progettazione_Industriale)**:
     - Conception, design and construction of a smart device suitable for residential contexts, offices, hospitals, gyms, transport, schools, to monitor indoor air quality and in general the environmental parameters associated with it.
 
 - **[Design and simulation of a Differential Pair with Active Load](https://github.com/DeanSupertramp/Progettazione_di_Circuiti_Integrati_Analogici)**:
