@@ -15,6 +15,9 @@
 - **[Antima.it](https://antima.it/)**:
     - a scientific/technological publications website that I co-found, i manage and publish articles about electronic stuff, diy, 3d printing, Arduino etc...
 
+- **[Convolutore SIMD 3x3](https://github.com/DeanSupertramp/PSD)**:
+    - Progettazione, implementazione e simulazione su Vivado di un Convolutore basato su paradigma SIMD 3x3.
+
 - **[Self Balancing Robot](https://github.com/DeanSupertramp/FPSE)**:
     - design and construction of a self-balancing robot.
 
