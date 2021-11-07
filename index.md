@@ -30,7 +30,7 @@
 - **[Audio event datalogger in LabView](https://github.com/DeanSupertramp/SAM)**:
     - Design and development of a program created in LabView capable of identifying an audio event or not, analyzing its characteristics such as frequency spectrum, duration, saving the data in a log file.
 
-- **Self-trainer**:
+- **[Self-trainer](https://github.com/DeanSupertramp/TPSERS)**:
     - Autonomous monitoring and control system of motor activity: device capable of identifying the movement of a given exercise, through the use of sensors such as accelerometer and magnetometer, ensuring its correctness. Using the relevant app, you can get immediate feedback on the exercise, as well as track, download and monitor your training data through a colorful, dynamic and easy-to-use interface.
 
 - **Final design of an electrical and lighting system for a surveillance office**:
