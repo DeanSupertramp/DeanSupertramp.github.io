@@ -16,7 +16,7 @@
     - a scientific/technological publications website that I co-found, i manage and publish articles about electronic stuff, diy, 3d printing, Arduino etc...
 
 - **[Convolutore SIMD 3x3](https://github.com/DeanSupertramp/PSD)**:
-    - Progettazione, implementazione e simulazione su Vivado di un Convolutore basato su paradigma SIMD 3x3.
+    - Design, implementation and simulation on Vivado of a 3x3 SIMD paradigm based Convolver.
 
 - **[Self Balancing Robot](https://github.com/DeanSupertramp/FPSE)**:
     - design and construction of a self-balancing robot.
