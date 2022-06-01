@@ -1,5 +1,10 @@
 # Portfolio
 
+I was born in Catanzaro, Italy in 1993. I grew up in the nature of south italy, fascinated by music and visual arts, with an education and interest in science that brought me to an Master Degree in Electronic Engigneering and almost four years as Hardware R&D Engineer.
+Since I was a child I have been passionate about photography, evolving to almost purely use analog processes. I prefer portraits, nature, street photography.
+
+"Sell your clothes and keep your thoughts." - H. D. Thoreau
+
 ## Professional experience
 - **Electronic Engineer** at [Biotecnomed S.c.a.r.l.](https://www.biotecnomed.it/)
 
