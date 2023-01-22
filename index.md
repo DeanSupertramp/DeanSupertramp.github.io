@@ -6,11 +6,14 @@ Since I was a child I have been passionate about photography, evolving to almost
 "Sell your clothes and keep your thoughts." - H. D. Thoreau
 
 ## Professional experience
-- **Electronic Engineer** at [Biotecnomed S.c.a.r.l.](https://www.biotecnomed.it/)
+- **HW Engineer** at [Biotecnomed S.c.a.r.l.](https://www.biotecnomed.it/)
+
+- **HW Design Engineer** at [Magna Lightning](https://www.biotecnomed.it/) (Alten Consultant)
 
 
 ## Education
-- Second year student of the **Master's Degree** in Electronics Engineering at Università della Calabria (UNICAL)
+- **Master's Degree** in Electronics Engineering at Università della Calabria (UNICAL)
+    - Thesis: __Development of Capacitive Imaging measurement methods for non-destructive testing applications.__ (Repository of the project [here](https://github.com/DeanSupertramp/pyTiePie))
 
 - **Bachelor's Degree** in Electronics Engineering at Università della Calabria (UNICAL)
     - Thesis: __IoT Technologies and Cognitive Networks supporting a smart ecosystem capable of determining human activity for improving the quality of life.__
