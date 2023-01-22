@@ -6,9 +6,10 @@ Since I was a child I have been passionate about photography, evolving to almost
 "Sell your clothes and keep your thoughts." - H. D. Thoreau
 
 ## Professional experience
+- **HW Design Engineer** at [Magna Lightning](https://www.biotecnomed.it/) (Alten Consultant)
 - **HW Engineer** at [Biotecnomed S.c.a.r.l.](https://www.biotecnomed.it/)
 
-- **HW Design Engineer** at [Magna Lightning](https://www.biotecnomed.it/) (Alten Consultant)
+
 
 
 ## Education
